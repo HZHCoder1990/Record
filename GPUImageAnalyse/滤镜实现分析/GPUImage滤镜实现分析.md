@@ -3,7 +3,7 @@
 
 - 原图
 
-  ![原图](https://huang-typora-image-1257956766.cos.ap-chengdu.myqcloud.com/blog/GPUImageFiltersAnalyse/origin.png)
+  ![原图](./media/origin.png)
   
 - 前言
 
